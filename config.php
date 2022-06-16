@@ -9,20 +9,20 @@ return [
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
+        'name' => 'Mercury Co.',
     ],
     'links' => [
-        'twitter' => 'https://twitter.com/johndoe',
-        'github' => 'https://github.com/johndoe',
+        'twitter' => 'https://mercurynews.netlify.app',
+        'github' => 'https://github.com/maxherelovescode/mecurynews',
     ],
     'services' => [
         'cmsVersion' => '~2.10',
         'analytics' => 'UA-XXXXX-Y',
-        'disqus' => 'artisanstatic',
+        'disqus' => '',
         'formcarry' => 'XXXXXXXXXXXX',
         'cloudinary' => [
-            'cloudName' => 'artisanstatic',
-            'apiKey' => '365895137117119',
+            'cloudName' => 'maxsamazingsite',
+            'apiKey' => '649185272939667',
         ],
     ],
     'collections' => [
