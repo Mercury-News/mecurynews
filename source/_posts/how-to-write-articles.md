@@ -1,8 +1,6 @@
 ---
 title: How To Write Articles
 date: 2022-06-15
-image: www.
-comments: true
 ---
 How to write a Article.
 
