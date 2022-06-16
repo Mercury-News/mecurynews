@@ -23,7 +23,7 @@
 
     <hr>
 
-    <p><strong>DISCLAIMER:</strong>Articles on this website have been written by people all over the world and do not necessarily represent the views of the site owners and creators</p>
+    <p><strong>DISCLAIMER: </strong>Articles on this website have been written by people all over the world and do not necessarily represent the views of the site owners and creators</p>
 
     @yield('postContent')
 
