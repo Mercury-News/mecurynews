@@ -8,6 +8,7 @@
     <ul>
         @forelse ($posts->sortByDesc('date') as $post)
             <li>
+                <a href="{{ $post->getPath() }}">{{ $post->image }}</a>
                 <a href="{{ $post->getPath() }}">{{ $post->title }}</a>
                 <small>{{ $post->prettyDate() }}</small>
             </li>
