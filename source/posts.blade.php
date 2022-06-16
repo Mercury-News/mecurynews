@@ -8,8 +8,10 @@
     <ul>
         @forelse ($posts->sortByDesc('date') as $post)
             <li>
-                <img src="{{ $page->image }}" style="object-fit: cover; height: 70px; width: 20%;">
+                <img src={{ $post->image }} style="object-fit: cover; height: 100px; width: 50%;">
+                <br>
                 <a href="{{ $post->getPath() }}">{{ $post->title }}</a>
+                <small>Written By {{ $post->author }}</small>
                 <small>{{ $post->prettyDate() }}</small>
             </li>
         @empty
