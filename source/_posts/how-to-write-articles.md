@@ -7,11 +7,8 @@ How to write a Article.
 1. Fork The Github Repo <https://github.com/maxherelovescode/mecurynews> here
 
 2. Write your articles in /source/_posts
-
 Use a Markdown File Otherwise your article will be rejected.
-
 At the beginning of your article before anything else ensure to use
-
 ```
 ---
 title: 'Title'
