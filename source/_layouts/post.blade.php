@@ -23,7 +23,7 @@
 
     <hr>
 
-    <p>DISCLAIMER: Any 3rd-party services in these posts and in the config are only recommendations/suggestions. I am not affiliated with any of them.</p>
+    <p><strong>DISCLAIMER:</strong>Articles on this website have been written by people all over the world and do not necessarily represent the views of the site owners and creators</p>
 
     @yield('postContent')
 
