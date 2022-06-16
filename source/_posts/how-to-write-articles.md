@@ -1,6 +1,7 @@
 ---
 title: How To Write Articles
 date: 2022-06-15
+image: https://cdn4.explainthatstuff.com/og-large-computer-keyboard.jpg
 ---
 How to write a Article.
 
