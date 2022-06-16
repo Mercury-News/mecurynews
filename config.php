@@ -2,7 +2,7 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://mercurynews.netlify.app',
+    'baseUrl' => 'https://mercurynews.tk',
     'site' => [
         'title' => 'Mercury News',
         'description' => 'An Open Source Independant News Project',
@@ -13,7 +13,7 @@ return [
     ],
     'links' => [
         'twitter' => 'https://mercurynews.netlify.app',
-        'github' => 'https://github.com/maxherelovescode/mecurynews',
+        'github' => 'https://github.com/mercurynews/mecurynews',
     ],
     'services' => [
         'cmsVersion' => '~2.10',
