@@ -2,10 +2,10 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://mercurynews.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Mercury News',
+        'description' => 'An Open Source Independant News Project',
         'image' => 'default-share.png',
     ],
     'owner' => [
