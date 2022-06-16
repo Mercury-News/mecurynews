@@ -8,7 +8,7 @@
     <ul>
         @forelse ($posts->sortByDesc('date') as $post)
             <li>
-                <img src={{ $post->image }} style="object-fit: cover; height: 40%; width: 40%;">
+                <img src={{ $post->image }} style="object-fit: cover; height: 35%; width: 35%;">
                 <br>
                 <a href="{{ $post->getPath() }}">{{ $post->title }}</a>
                 <small>Written By {{ $post->author }}</small>
