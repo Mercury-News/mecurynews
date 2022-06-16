@@ -3,6 +3,7 @@ title: How To Write Articles
 date: 2022-06-15
 image: https://cdn4.explainthatstuff.com/og-large-computer-keyboard.jpg
 author: Mercury News Team
+tags: tutorial, official
 ---
 How to write a Article.
 
@@ -17,6 +18,7 @@ title: 'Title'
 date: Date of Writing (This Will Most likely be changed to date of release)
 image: Link to image you want to use
 author: Your Name Here
+tags: 
 ---
 ```
 
