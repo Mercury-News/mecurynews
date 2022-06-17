@@ -13,7 +13,7 @@ return [
     ],
     'links' => [
         'twitter' => 'https://mercurynews.netlify.app',
-        'github' => 'https://github.com/mercurynews/mecurynews',
+        'github' => 'https://github.com/mercury-news/mecurynews',
     ],
     'services' => [
         'cmsVersion' => '~2.10',
