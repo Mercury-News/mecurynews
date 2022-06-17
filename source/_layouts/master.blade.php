@@ -20,6 +20,7 @@
     <section>
         <header>
             <nav>
+                <img src="https://res.cloudinary.com/maxsamazingsite/image/upload/v1655439542/Mercury%20News/logo_size_rcpngp.jpg" alt="Mercury News Logo">
                 <strong>{{ $page->site->title }}</strong><br>
                 <ul>
                     <li><a href="/">Home</a></li>
