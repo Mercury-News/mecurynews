@@ -3,7 +3,10 @@ title: How To Write Articles
 date: 2022-06-15
 image: https://cdn4.explainthatstuff.com/og-large-computer-keyboard.jpg
 author: Mercury News Team
-tags: tutorial, official
+tags:
+  - tutorial
+  - official
+  - mercury
 ---
 How to write a Article.
 
