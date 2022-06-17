@@ -1,6 +1,14 @@
 @extends('_layouts.master')
 
 @section('content')
+<style type="css">
+            .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width:50%;
+        }
+</style>
     <h1>Welcome to Mercury News</h1>
 
     <p>We are an independent Open Source News Website Where Everyone Can Submit Articles.</p>
