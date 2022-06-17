@@ -7,6 +7,8 @@ tags:
   - tutorial
   - official
   - mercury
+  - write
+comments: true
 ---
 How to write a Article.
 
