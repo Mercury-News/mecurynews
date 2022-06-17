@@ -12,7 +12,7 @@ tags:
 # THE XBOX SHOWCASE...
 Is for many gamers one of the highlights of the year. This year we were most certainly not disapointed. With games such as Hollow Knight, High On Life, a <strong>NEW</strong> Forza Motorsport game and even a new Minecraft Game? This years showcase had many amazing releses that you won't want to miss!
 ## Showcase Video
-<iframe src="https://onedrive.live.com/embed?cid=AE2C9DE053B59FAC&resid=AE2C9DE053B59FAC%21240636&authkey=ALr-ENL6FFKIAcY" width="320" height="180" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://onedrive.live.com/embed?cid=AE2C9DE053B59FAC&resid=AE2C9DE053B59FAC%21240636&authkey=ALr-ENL6FFKIAcY" width="320" height="180"></iframe>
 <br>
 <small>Video Courtesy [Xbox Youtube Channel](https://www.youtube.com/watch?v=rOYnwhKwlw8)</small>
 
