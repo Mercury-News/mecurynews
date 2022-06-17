@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="{{ $page->language ?? 'en' }}">
 <head>
+    <style type="css">
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width:50%;
+        }
+    </style>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -20,7 +28,8 @@
     <section>
         <header>
             <nav>
-                <img src="https://res.cloudinary.com/maxsamazingsite/image/upload/v1655439542/Mercury%20News/logo_size_rcpngp.jpg" alt="Mercury News Logo">
+                <img src="https://res.cloudinary.com/maxsamazingsite/image/upload/v1655439542/Mercury%20News/logo_size_rcpngp.jpg" alt="Mercury News Logo" class="center">
+                <br>
                 <strong>{{ $page->site->title }}</strong><br>
                 <ul>
                     <li><a href="/">Home</a></li>
