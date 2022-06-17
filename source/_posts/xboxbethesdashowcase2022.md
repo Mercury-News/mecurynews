@@ -12,9 +12,9 @@ tags:
 # THE XBOX SHOWCASE...
 Is for many gamers one of the highlights of the year. This year we were most certainly not disapointed. With games such as Hollow Knight, High On Life, a <strong>NEW</strong> Forza Motorsport game and even a new Minecraft Game? This years showcase had many amazing releses that you won't want to miss!
 ## Showcase Video
-<iframe src="https://onedrive.live.com/embed?cid=AE2C9DE053B59FAC&resid=AE2C9DE053B59FAC%21240636&authkey=ALr-ENL6FFKIAcY" width="320" height="180" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://onedrive.live.com/embed?cid=AE2C9DE053B59FAC&resid=AE2C9DE053B59FAC%21240636&authkey=ALr-ENL6FFKIAcY" width="320" height="180" frameborder="0" scrolling="no" allowfullscreen></iframe>
 <br>
-<small>Video Courtesy ![Xbox Youtube Channel](https://www.youtube.com/watch?v=rOYnwhKwlw8)</small>
+<small>Video Courtesy [Xbox Youtube Channel](https://www.youtube.com/watch?v=rOYnwhKwlw8)</small>
 
 ## All Games
 This year's showcase was a good one. I personally am really exited for Starfield (That Game Looks Great!).
@@ -22,5 +22,5 @@ This year's showcase was a good one. I personally am really exited for Starfield
 <br>
 From Mercury News I'm Max H
 <br>
-![Github](https://github.com/maxherelovescode) <br>
-![Twitter](https://twitter.com/itsmax_h)
+[Github](https://github.com/maxherelovescode) <br>
+[Twitter](https://twitter.com/itsmax_h)
